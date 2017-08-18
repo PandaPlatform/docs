@@ -5,3 +5,9 @@ Thumbs.db
 
 # IDE-relative files and folders
 .idea
+
+# node modules
+node_modules
+
+# distribution folder
+dist

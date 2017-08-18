@@ -1,0 +1,11 @@
+{
+    "name": "panda-docs",
+    "description": "Panda - Documentation",
+    "repository": "https://github.com/PandaPlatform/docs",
+    "author": "Ioannis Papikas",
+    "license": "MIT",
+    "homepage": "https://pandaphp.org/",
+    "devDependencies": {
+        "gulp": "^3.9.1"
+    }
+}

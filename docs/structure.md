@@ -1,0 +1,16 @@
+# Directory Structure
+
+- [Introduction](#introduction)
+- [The Root Directory](#the-root-directory)
+    - [The `app` Directory](#the-root-app-directory)
+    - [The `boot` Directory](#the-boot-directory)
+    - [The `config` Directory](#the-config-directory)
+    - [The `database` Directory](#the-database-directory)
+    - [The `public` Directory](#the-public-directory)
+    - [The `resources` Directory](#the-resources-directory)
+    - [The `tests` Directory](#the-tests-directory)
+    - [The `vendor` Directory](#the-vendor-directory)
+- [The App Directory](#the-app-directory)
+    - [The `Bootstrap` Directory](#the-bootstrap-directory)
+    - [The `Controllers` Directory](#the-controllers-directory)
+    - [The `Html` Directory](#the-html-directory)

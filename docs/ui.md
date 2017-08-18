@@ -5,7 +5,6 @@
     - [DOM Handlers](#dom-handlers)
     - [DOM Factories](#dom-factories)
     - [Extending DOM](#extending-dom)
-    - [DOMPrototype](#dom-prototype)
 - [HTML](#html)
     - [HTML Handlers](#html-handlers)
     - [HTML Factories](#html-factories)
